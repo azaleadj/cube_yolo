@@ -38,5 +38,6 @@ The trained model can accurately detect both solved and unsolved Rubik’s cubes
 Author
 
 Jane (Juan Du)
+MADS graduate student
 Volunteer researcher at UVic ACIS Lab
 Focus: robot vision, human–robot interaction, and visual data analysis
