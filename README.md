@@ -11,6 +11,8 @@ cube_yolo/
 ├── robot_cube_detection.ipynb # Training + real-time detection notebook
 ├── test_realsense.py # Camera test script (for Intel RealSense)
 ├── yolo_realsence_detect.py # Real-time detection with YOLO + RealSense
+├── yolo_realsence_detect_final_position_desktop_plane.py # Detect whether the cube is on the table and return its 3D position.
+
 
 ---
 
